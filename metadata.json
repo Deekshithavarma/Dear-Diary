@@ -1,0 +1,7 @@
+{
+  "name": "Dear Diary",
+  "description": "A personal, emotional, and comforting AI diary companion for untangling thoughts with simple, heartfelt reflections and voice input.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
